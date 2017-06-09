@@ -1,4 +1,4 @@
-git入门！
+﻿git入门！
 d
 f
 f
@@ -17,3 +17,4 @@ afdgkdfn
 :q!
 :q
 visual
+试提交
